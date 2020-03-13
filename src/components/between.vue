@@ -60,7 +60,6 @@ export default class Between extends Vue{
     }
   }
   .TheHiden{
-    position: absolute;
     margin-top: 9px;
     width: 100px;
     background-color: #2aa3ff;

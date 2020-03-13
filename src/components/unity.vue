@@ -60,7 +60,6 @@ export default class Unity extends Vue{
     }
   }
   .hiden{
-    position: absolute;
     margin-top: 9px;
     width: 85px;
     background-color: #2aa3ff;
